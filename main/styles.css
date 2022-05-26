@@ -1,4 +1,4 @@
-body{
+.hub{
     background: url('https://blenderartists.org/uploads/default/optimized/4X/d/b/0/db02855d8224afab6ee0a993e2cb60ef50a4e806_2_690x345.jpeg') ;
     background-size: cover;
     color: aliceblue;
@@ -50,4 +50,63 @@ padding-right: 25px;
 }
 .imgs img{
     margin-left: 5%;
+}
+.beginner {
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: larger;
+    display: flex;
+    color: white;
+}
+.beginner a{
+    margin-left: 5%;
+}
+.intermediate{
+    margin-top: 5%;
+    font-size: larger;
+    color: white;
+    margin-left: 5%;
+    display: flex;
+    
+}
+.intermediate a{
+    margin-left: 5%;
+}
+.Advanced{
+    margin-top: 5%;
+    font-size: larger;
+    color: white;
+    margin-left: 5%;
+    display: flex;
+}
+.Advanced a{
+    margin-left: 5%;
+}
+.beginnersection{
+    background: url('https://blenderartists.org/uploads/default/optimized/4X/9/c/8/9c8a5ccefaca2fb1440d343d00cc9837ac080574_2_500x500.jpeg') ;
+    background-size: cover;
+    color: aliceblue;
+}
+.Beginningh1 {
+    
+    max-width: 550px;
+  margin: auto;
+   font-size: larger;
+}
+.bparagrapgh{
+    margin-top: 5%;
+    margin-left: 3%;
+    display: flex;
+    font-size: larger;
+    
+}
+
+.bparagrapgh a{
+margin-left: 1%;
+}
+.bparagrapgh img{
+   margin-left: 5%;
+   width: 1200px;
+   height: 800px;
+   margin-right: 2%;
 }
