@@ -130,3 +130,15 @@ padding-right: 25px;
     background-size: cover;
     color: aliceblue;
 }
+.bparagrapgh2 img{
+    margin-top: 5%;
+    margin-left: 3%;
+    
+    display: flex;
+    max-width: 75%;
+    max-height: 50%;
+}
+.myartsection{
+    background-color: darkcyan;
+    color: aliceblue;
+}
