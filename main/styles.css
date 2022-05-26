@@ -101,12 +101,32 @@ padding-right: 25px;
     
 }
 
-.bparagrapgh a{
-margin-left: 1%;
-}
+
 .bparagrapgh img{
    margin-left: 5%;
    width: 1200px;
    height: 800px;
    margin-right: 2%;
+}
+.playlist{
+    margin-bottom: 15%;
+}
+#headerPopup{
+    width:75%;
+    margin:0 auto;
+  }
+  
+  #headerPopup iframe{
+    width:100%;
+    margin:0 auto;
+  }
+  .intermediatesection{
+    background: url('https://blenderartists.org/uploads/default/original/4X/9/f/4/9f426a19d47dde30e06830f2fef7297b3a238198.jpeg') ;
+    background-size: cover;
+    color: aliceblue;
+}
+.advancedsection{
+    background: url('https://blenderartists.org/uploads/default/original/4X/e/1/0/e10a5c51f7fa954b8f7d0107d29e1f111d8270a1.jpeg') ;
+    background-size: cover;
+    color: aliceblue;
 }
